@@ -2551,11 +2551,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Business\\Business.csproj",
+      "projectUniqueName": "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Business\\Business.csproj",
+      "projectPath": "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\Hatice Şahin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Business\\obj\\",
+      "outputPath": "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
@@ -2579,11 +2579,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\DataAccess\\DataAccess.csproj"
+            "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Entities\\Entities.csproj"
+            "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Entities\\Entities.csproj": {
+              "projectPath": "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Entities\\Entities.csproj"
             }
           }
         }

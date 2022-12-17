@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\Core.csproj": {}
+    "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\Core.csproj": {
+    "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Hatice Şahin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\obj\\",
+        "outputPath": "c:\\Users\\Hatice Şahin\\source\\repos\\eReconciliationBackendProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages",
