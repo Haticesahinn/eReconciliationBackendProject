@@ -1,6 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-.idea/
+
 ###############################################################################
 # Set default behavior for command prompt diff.
 #
